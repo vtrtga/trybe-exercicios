@@ -1,0 +1,19 @@
+
+.Cards {
+  border: 3px solid rgb(189, 238, 189);
+  margin: 2cm;
+  border-radius: 10%;
+  width: 220px;
+  display:inline-block;
+  text-align: center;
+  
+}
+
+.Cards:hover {
+  border-radius: 80%;
+  background-color: rgb(206, 233, 166);
+}
+
+.imagem {
+  width: 50%;
+}
